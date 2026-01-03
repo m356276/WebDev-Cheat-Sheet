@@ -4,7 +4,7 @@
 
 A simple **HTML, CSS, and Shortcuts Cheat Sheet** with the most important commands, tips, and examples.  
 I made this mainly for **beginners** and for myself so I have a **quick reference** while learning web development.
-Visit the site here: https://mcppdev.github.io/WebDev-Cheat-Sheet/
+Visit the site here: https://m356276.github.io/WebDev-Cheat-Sheet/
 ---
 
 ## ✅ Contents
